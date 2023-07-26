@@ -1,0 +1,17 @@
+.order {
+    padding: 40px;
+    margin: 20px 0;
+    border: 1px solid lightgray;
+    background-color: white;
+    position: relative;
+}
+
+.hacky-order-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.order-total {
+    font-weight: 500;
+    text-align: right;
+}
